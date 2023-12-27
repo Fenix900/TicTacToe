@@ -90,4 +90,9 @@ body {
 
 .game-info {
   margin-left: 20px;
+  color: #ffffff;
+}
+
+.game-board{
+  margin-left:20px;
 }
